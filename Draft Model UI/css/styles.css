@@ -1,0 +1,11 @@
+
+body {
+  background-color: #f2f2f2;
+}
+
+#tester {
+  padding: 25px;
+  margin: 15px;
+  border: 1px solid #000;
+  background-color: #fff;
+}

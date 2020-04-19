@@ -7,3 +7,5 @@ Project osmosis aims to combat the COVID-19 pandemic leveraging web technologies
 - Rona Tracker app
 - Data
 - Contract Tracing API [Draft](https://www.apple.com/covid19/contacttracing/)
+
+![Officer Jones](Assets/Jones.png)
