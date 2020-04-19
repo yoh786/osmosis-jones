@@ -1,4 +1,6 @@
-#SARSCOV2-Osmosis 
+SARSCOV2-Osmosis 
+================
+
 
 Project osmosis aims to combat the COVID-19 pandemic leveraging web technologies, tracking APIs, and big data.
 
